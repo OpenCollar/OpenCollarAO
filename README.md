@@ -1,4 +1,4 @@
-OpenCollarAO
-------------
+## OpenCollarAO [▶ Redirect](https://github.com/OpenCollar/opencollar/tree/master/src/ao "My source has a new home!")
 
-This is the source code for the Submissive AO ZHAOII variant.
+
+This repository is now obsolete. Its files and history have been merged into the [OpenCollar upstream](https://github.com/OpenCollar/opencollar).
